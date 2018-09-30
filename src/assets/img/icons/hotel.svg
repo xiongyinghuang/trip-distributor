@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>酒店</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="酒店" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(2.000000, 4.000000)">
+            <path d="M2.95,20.05055 L2.95,1.64125 C2.95,1.0933 3.39835659,0.65 3.94962543,0.65 L15.9503746,0.65 C16.5029544,0.65 16.95,1.0933 16.95,1.64125 L16.95,20.05055" id="Stroke-1" stroke="#F59223" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M17.25,9.75 L22.3776677,9.75 C22.8595655,9.75 23.25,10.19395 23.25,10.7419 L23.25,19.36515" id="Stroke-3" stroke="#F59223" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M0.65,20.150065 L25.65,20.150065" id="Stroke-5" stroke="#F59223" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polygon id="Fill-8" fill="#F59223" fill-rule="nonzero" points="5.85 5.63355 8.01645 5.63355 8.01645 3.9 5.85 3.9"></polygon>
+            <polygon id="Fill-10" fill="#F59223" fill-rule="nonzero" points="11.4 5.63355 13.56645 5.63355 13.56645 3.9 11.4 3.9"></polygon>
+            <polygon id="Fill-11" fill="#F59223" fill-rule="nonzero" points="5.85 10.18355 8.01645 10.18355 8.01645 8.45 5.85 8.45"></polygon>
+            <polygon id="Fill-12" fill="#F59223" fill-rule="nonzero" points="11.4 10.18355 13.56645 10.18355 13.56645 8.45 11.4 8.45"></polygon>
+            <polygon id="Fill-13" fill="#F59223" fill-rule="nonzero" points="5.85 14.73355 8.01645 14.73355 8.01645 13 5.85 13"></polygon>
+            <polygon id="Fill-14" fill="#F59223" fill-rule="nonzero" points="11.4 14.73355 13.56645 14.73355 13.56645 13 11.4 13"></polygon>
+        </g>
+    </g>
+</svg>

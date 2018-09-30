@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>一键清空</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="一键清空" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(8.000000, 8.000000)" stroke="#266FE2">
+            <path d="M3.73031111,1.55259091 L3.73031111,0.8985 C3.73031111,0.402136364 4.12364444,-0.000136363636 4.60897778,-0.000136363636 L9.3912,-0.000136363636 C9.8765333,-0.000136363636 10.2694222,0.402136364 10.2694222,0.8985 L10.2694222,1.55259091" id="Stroke-3"></path>
+            <path d="M13.1454667,3.75418182 L13.1454667,14.0150909 C13.1454667,14.5114545 12.7521333,14.9137273 12.2668,14.9137273 L1.86146667,14.9137273 C1.37613333,14.9137273 0.9828,14.5114545 0.9828,14.0150909 L0.9828,3.75418182" id="Stroke-5"></path>
+            <path d="M7.06408889,4.34245455 L7.06408889,11.9188182" id="Stroke-7"></path>
+            <path d="M4.2824,5.74004545 L4.2824,9.92231818" id="Stroke-9"></path>
+            <path d="M9.846,5.74004545 L9.846,9.92231818" id="Stroke-11"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>定位</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="定位" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-48-Copy-4" transform="translate(11.000000, 10.000000)">
+            <g id="Group-56">
+                <path d="M3.91608392,0 C1.75304546,0 0,1.85394737 0,4.14131579 C0,5.15631579 0.36009967,6.07394737 0.919501493,6.80631579 C1.80727734,7.96868421 2.98275329,9.29763158 3.63407815,9.86894737 C3.74444002,9.96578947 3.83690537,10 3.91608392,10 C3.99960101,10 4.08745665,9.96578947 4.19808968,9.86868421 C4.84914338,9.29736842 6.0248905,7.96868421 6.91239518,6.80631579 C7.47206816,6.07394737 7.83216783,5.15631579 7.83216783,4.14131579 C7.83216783,1.85394737 6.07885121,0 3.91608392,0 Z" id="Stroke-1" stroke="#999999" stroke-linecap="round" stroke-linejoin="round"></path>
+                <ellipse id="Oval-5" stroke="#979797" cx="3.91608392" cy="3.2967033" rx="1.17482517" ry="1.15384615"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

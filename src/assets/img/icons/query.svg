@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="28px" viewBox="0 0 29 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 73 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="193.547953%" y1="218.671875%" x2="30.6169181%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FA3A68" offset="0%"></stop>
+            <stop stop-color="#8900F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-73-Copy" transform="translate(0.000000, 2.000000)">
+            <rect id="Rectangle-39" fill="#5500F9" x="0" y="8.66666667" width="5.25" height="17.3333333" rx="1"></rect>
+            <rect id="Rectangle-39-Copy" fill="#8100F9" x="7" y="11.2666667" width="5.25" height="14.7333333" rx="1"></rect>
+            <rect id="Rectangle-39-Copy-2" fill="#C116C4" x="14.875" y="13" width="5.25" height="13" rx="1"></rect>
+            <rect id="Rectangle-39-Copy-3" fill="#D443EE" x="22.75" y="16.4666667" width="5.25" height="9.53333333" rx="1"></rect>
+            <polyline id="Path-18" stroke="url(#linearGradient-1)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="1.75 0 27.125 8.66666667 25.1966406 1.80781635"></polyline>
+        </g>
+    </g>
+</svg>

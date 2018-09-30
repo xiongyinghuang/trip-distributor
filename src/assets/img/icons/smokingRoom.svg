@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>吸烟</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="吸烟" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(7.000000, 7.000000)">
+            <path d="M11.0728155,10 L11.7352162,10 C11.8808473,10 12,9.885033 12,9.74451778 L12,8.25548222 C12,8.114967 11.8808473,8 11.7352162,8 L9,8 L11.0728155,10 Z" id="Fill-1" fill="#7CAD4B"></path>
+            <path d="M9.72889946,8 L2.28962939,8 C2.13006729,8 2,8.114967 2,8.25548222 L2,9.74451778 C2,9.885033 2.13006729,10 2.28962939,10 L12,10 L9.72889946,8 Z" id="Fill-3" fill="#7CAD4B"></path>
+            <path d="M-0.5,8 C-0.5,3.30568977 3.30552547,-0.5 8,-0.5 C12.6941424,-0.5 16.5,3.30585763 16.5,8 C16.5,12.6944745 12.6943102,16.5 8,16.5 C3.30535763,16.5 -0.5,12.6946424 -0.5,8 Z" id="Stroke-7" stroke="#7CAD4B" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M12,5 C11.4476566,5 11,4.43233975 11,3.73173305 C11,3.45950936 11.0678931,3.20680559 11.1830924,3" id="Stroke-9" stroke="#7CAD4B" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M12,5 C12.5523434,5 13,5.56766025 13,6.26826695 C13,6.54049064 12.9321069,6.79319441 12.8169076,7" id="Stroke-11" stroke="#7CAD4B" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

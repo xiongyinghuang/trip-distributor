@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="48px" viewBox="0 0 1920 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>纹理</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="0" width="1920" height="48"></rect>
+    </defs>
+    <g id="纹理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#FFF2F0" xlink:href="#path-1"></use>
+        <g id="Group-21" opacity="0.119419643" mask="url(#mask-2)" stroke="#FF5341" stroke-linecap="square">
+            <g transform="translate(214.000000, -11.000000)">
+                <path d="M65.5141509,0.5 L0.507861635,70.5" id="Line-2"></path>
+                <path d="M154.897799,0.5 L89.8915094,70.5" id="Line-2-Copy-8"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-16"></path>
+                <path d="M110.205975,0.5 L45.1996855,70.5" id="Line-2-Copy-4"></path>
+                <path d="M199.589623,0.5 L134.583333,70.5" id="Line-2-Copy-9"></path>
+                <path d="M277.800314,0.5 L212.794025,70.5" id="Line-2-Copy-17"></path>
+                <path d="M76.6871069,0.5 L11.6808176,70.5" id="Line-2-Copy"></path>
+                <path d="M166.070755,0.5 L101.064465,70.5" id="Line-2-Copy-10"></path>
+                <path d="M244.281447,0.5 L179.275157,70.5" id="Line-2-Copy-18"></path>
+                <path d="M121.378931,0.5 L56.3726415,70.5" id="Line-2-Copy-5"></path>
+                <path d="M210.762579,0.5 L145.756289,70.5" id="Line-2-Copy-11"></path>
+                <path d="M288.97327,0.5 L223.966981,70.5" id="Line-2-Copy-19"></path>
+                <path d="M87.8600629,0.5 L22.8537736,70.5" id="Line-2-Copy-2"></path>
+                <path d="M177.243711,0.5 L112.237421,70.5" id="Line-2-Copy-12"></path>
+                <path d="M255.454403,0.5 L190.448113,70.5" id="Line-2-Copy-20"></path>
+                <path d="M132.551887,0.5 L67.5455975,70.5" id="Line-2-Copy-6"></path>
+                <path d="M221.935535,0.5 L156.929245,70.5" id="Line-2-Copy-13"></path>
+                <path d="M300.146226,0.5 L235.139937,70.5" id="Line-2-Copy-21"></path>
+                <path d="M99.0330189,0.5 L34.0267296,70.5" id="Line-2-Copy-3"></path>
+                <path d="M188.416667,0.5 L123.410377,70.5" id="Line-2-Copy-14"></path>
+                <path d="M266.627358,0.5 L201.621069,70.5" id="Line-2-Copy-22"></path>
+                <path d="M143.724843,0.5 L78.7185535,70.5" id="Line-2-Copy-7"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-15"></path>
+                <path d="M311.319182,0.5 L246.312893,70.5" id="Line-2-Copy-23"></path>
+                <path d="M322.492138,0.5 L257.485849,70.5" id="Line-2-Copy-24"></path>
+            </g>
+        </g>
+        <g id="Group-21-Copy-4" opacity="0.119419643" mask="url(#mask-2)" stroke="#FF5341" stroke-linecap="square">
+            <g transform="translate(1289.000000, -11.000000)">
+                <path d="M65.5141509,0.5 L0.507861635,70.5" id="Line-2"></path>
+                <path d="M154.897799,0.5 L89.8915094,70.5" id="Line-2-Copy-8"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-16"></path>
+                <path d="M110.205975,0.5 L45.1996855,70.5" id="Line-2-Copy-4"></path>
+                <path d="M199.589623,0.5 L134.583333,70.5" id="Line-2-Copy-9"></path>
+                <path d="M277.800314,0.5 L212.794025,70.5" id="Line-2-Copy-17"></path>
+                <path d="M76.6871069,0.5 L11.6808176,70.5" id="Line-2-Copy"></path>
+                <path d="M166.070755,0.5 L101.064465,70.5" id="Line-2-Copy-10"></path>
+                <path d="M244.281447,0.5 L179.275157,70.5" id="Line-2-Copy-18"></path>
+                <path d="M121.378931,0.5 L56.3726415,70.5" id="Line-2-Copy-5"></path>
+                <path d="M210.762579,0.5 L145.756289,70.5" id="Line-2-Copy-11"></path>
+                <path d="M288.97327,0.5 L223.966981,70.5" id="Line-2-Copy-19"></path>
+                <path d="M87.8600629,0.5 L22.8537736,70.5" id="Line-2-Copy-2"></path>
+                <path d="M177.243711,0.5 L112.237421,70.5" id="Line-2-Copy-12"></path>
+                <path d="M255.454403,0.5 L190.448113,70.5" id="Line-2-Copy-20"></path>
+                <path d="M132.551887,0.5 L67.5455975,70.5" id="Line-2-Copy-6"></path>
+                <path d="M221.935535,0.5 L156.929245,70.5" id="Line-2-Copy-13"></path>
+                <path d="M300.146226,0.5 L235.139937,70.5" id="Line-2-Copy-21"></path>
+                <path d="M99.0330189,0.5 L34.0267296,70.5" id="Line-2-Copy-3"></path>
+                <path d="M188.416667,0.5 L123.410377,70.5" id="Line-2-Copy-14"></path>
+                <path d="M266.627358,0.5 L201.621069,70.5" id="Line-2-Copy-22"></path>
+                <path d="M143.724843,0.5 L78.7185535,70.5" id="Line-2-Copy-7"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-15"></path>
+                <path d="M311.319182,0.5 L246.312893,70.5" id="Line-2-Copy-23"></path>
+                <path d="M322.492138,0.5 L257.485849,70.5" id="Line-2-Copy-24"></path>
+            </g>
+        </g>
+        <g id="Group-21-Copy-2" opacity="0.119419643" mask="url(#mask-2)" stroke="#FF5341" stroke-linecap="square">
+            <g transform="translate(752.000000, -11.000000)">
+                <path d="M65.5141509,0.5 L0.507861635,70.5" id="Line-2"></path>
+                <path d="M154.897799,0.5 L89.8915094,70.5" id="Line-2-Copy-8"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-16"></path>
+                <path d="M110.205975,0.5 L45.1996855,70.5" id="Line-2-Copy-4"></path>
+                <path d="M199.589623,0.5 L134.583333,70.5" id="Line-2-Copy-9"></path>
+                <path d="M277.800314,0.5 L212.794025,70.5" id="Line-2-Copy-17"></path>
+                <path d="M76.6871069,0.5 L11.6808176,70.5" id="Line-2-Copy"></path>
+                <path d="M166.070755,0.5 L101.064465,70.5" id="Line-2-Copy-10"></path>
+                <path d="M244.281447,0.5 L179.275157,70.5" id="Line-2-Copy-18"></path>
+                <path d="M121.378931,0.5 L56.3726415,70.5" id="Line-2-Copy-5"></path>
+                <path d="M210.762579,0.5 L145.756289,70.5" id="Line-2-Copy-11"></path>
+                <path d="M288.97327,0.5 L223.966981,70.5" id="Line-2-Copy-19"></path>
+                <path d="M87.8600629,0.5 L22.8537736,70.5" id="Line-2-Copy-2"></path>
+                <path d="M177.243711,0.5 L112.237421,70.5" id="Line-2-Copy-12"></path>
+                <path d="M255.454403,0.5 L190.448113,70.5" id="Line-2-Copy-20"></path>
+                <path d="M132.551887,0.5 L67.5455975,70.5" id="Line-2-Copy-6"></path>
+                <path d="M221.935535,0.5 L156.929245,70.5" id="Line-2-Copy-13"></path>
+                <path d="M300.146226,0.5 L235.139937,70.5" id="Line-2-Copy-21"></path>
+                <path d="M99.0330189,0.5 L34.0267296,70.5" id="Line-2-Copy-3"></path>
+                <path d="M188.416667,0.5 L123.410377,70.5" id="Line-2-Copy-14"></path>
+                <path d="M266.627358,0.5 L201.621069,70.5" id="Line-2-Copy-22"></path>
+                <path d="M143.724843,0.5 L78.7185535,70.5" id="Line-2-Copy-7"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-15"></path>
+                <path d="M311.319182,0.5 L246.312893,70.5" id="Line-2-Copy-23"></path>
+                <path d="M322.492138,0.5 L257.485849,70.5" id="Line-2-Copy-24"></path>
+            </g>
+        </g>
+        <g id="Group-21-Copy-5" opacity="0.119419643" mask="url(#mask-2)" stroke="#FF5341" stroke-linecap="square">
+            <g transform="translate(1827.000000, -11.000000)">
+                <path d="M65.5141509,0.5 L0.507861635,70.5" id="Line-2"></path>
+                <path d="M154.897799,0.5 L89.8915094,70.5" id="Line-2-Copy-8"></path>
+                <path d="M110.205975,0.5 L45.1996855,70.5" id="Line-2-Copy-4"></path>
+                <path d="M76.6871069,0.5 L11.6808176,70.5" id="Line-2-Copy"></path>
+                <path d="M121.378931,0.5 L56.3726415,70.5" id="Line-2-Copy-5"></path>
+                <path d="M87.8600629,0.5 L22.8537736,70.5" id="Line-2-Copy-2"></path>
+                <path d="M132.551887,0.5 L67.5455975,70.5" id="Line-2-Copy-6"></path>
+                <path d="M99.0330189,0.5 L34.0267296,70.5" id="Line-2-Copy-3"></path>
+                <path d="M143.724843,0.5 L78.7185535,70.5" id="Line-2-Copy-7"></path>
+            </g>
+        </g>
+        <g id="Group-21-Copy-6" opacity="0.119419643" mask="url(#mask-2)" stroke="#FF5341" stroke-linecap="square">
+            <g transform="translate(1020.000000, -11.000000)">
+                <path d="M65.5141509,0.5 L0.507861635,70.5" id="Line-2"></path>
+                <path d="M154.897799,0.5 L89.8915094,70.5" id="Line-2-Copy-8"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-16"></path>
+                <path d="M110.205975,0.5 L45.1996855,70.5" id="Line-2-Copy-4"></path>
+                <path d="M199.589623,0.5 L134.583333,70.5" id="Line-2-Copy-9"></path>
+                <path d="M277.800314,0.5 L212.794025,70.5" id="Line-2-Copy-17"></path>
+                <path d="M76.6871069,0.5 L11.6808176,70.5" id="Line-2-Copy"></path>
+                <path d="M166.070755,0.5 L101.064465,70.5" id="Line-2-Copy-10"></path>
+                <path d="M244.281447,0.5 L179.275157,70.5" id="Line-2-Copy-18"></path>
+                <path d="M121.378931,0.5 L56.3726415,70.5" id="Line-2-Copy-5"></path>
+                <path d="M210.762579,0.5 L145.756289,70.5" id="Line-2-Copy-11"></path>
+                <path d="M288.97327,0.5 L223.966981,70.5" id="Line-2-Copy-19"></path>
+                <path d="M87.8600629,0.5 L22.8537736,70.5" id="Line-2-Copy-2"></path>
+                <path d="M177.243711,0.5 L112.237421,70.5" id="Line-2-Copy-12"></path>
+                <path d="M255.454403,0.5 L190.448113,70.5" id="Line-2-Copy-20"></path>
+                <path d="M132.551887,0.5 L67.5455975,70.5" id="Line-2-Copy-6"></path>
+                <path d="M221.935535,0.5 L156.929245,70.5" id="Line-2-Copy-13"></path>
+                <path d="M300.146226,0.5 L235.139937,70.5" id="Line-2-Copy-21"></path>
+                <path d="M99.0330189,0.5 L34.0267296,70.5" id="Line-2-Copy-3"></path>
+                <path d="M188.416667,0.5 L123.410377,70.5" id="Line-2-Copy-14"></path>
+                <path d="M266.627358,0.5 L201.621069,70.5" id="Line-2-Copy-22"></path>
+                <path d="M143.724843,0.5 L78.7185535,70.5" id="Line-2-Copy-7"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-15"></path>
+                <path d="M311.319182,0.5 L246.312893,70.5" id="Line-2-Copy-23"></path>
+                <path d="M322.492138,0.5 L257.485849,70.5" id="Line-2-Copy-24"></path>
+            </g>
+        </g>
+        <g id="Group-21-Copy-3" opacity="0.119419643" mask="url(#mask-2)" stroke="#FF5341" stroke-linecap="square">
+            <g transform="translate(483.000000, -11.000000)">
+                <path d="M65.5141509,0.5 L0.507861635,70.5" id="Line-2"></path>
+                <path d="M154.897799,0.5 L89.8915094,70.5" id="Line-2-Copy-8"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-16"></path>
+                <path d="M110.205975,0.5 L45.1996855,70.5" id="Line-2-Copy-4"></path>
+                <path d="M199.589623,0.5 L134.583333,70.5" id="Line-2-Copy-9"></path>
+                <path d="M277.800314,0.5 L212.794025,70.5" id="Line-2-Copy-17"></path>
+                <path d="M76.6871069,0.5 L11.6808176,70.5" id="Line-2-Copy"></path>
+                <path d="M166.070755,0.5 L101.064465,70.5" id="Line-2-Copy-10"></path>
+                <path d="M244.281447,0.5 L179.275157,70.5" id="Line-2-Copy-18"></path>
+                <path d="M121.378931,0.5 L56.3726415,70.5" id="Line-2-Copy-5"></path>
+                <path d="M210.762579,0.5 L145.756289,70.5" id="Line-2-Copy-11"></path>
+                <path d="M288.97327,0.5 L223.966981,70.5" id="Line-2-Copy-19"></path>
+                <path d="M87.8600629,0.5 L22.8537736,70.5" id="Line-2-Copy-2"></path>
+                <path d="M177.243711,0.5 L112.237421,70.5" id="Line-2-Copy-12"></path>
+                <path d="M255.454403,0.5 L190.448113,70.5" id="Line-2-Copy-20"></path>
+                <path d="M132.551887,0.5 L67.5455975,70.5" id="Line-2-Copy-6"></path>
+                <path d="M221.935535,0.5 L156.929245,70.5" id="Line-2-Copy-13"></path>
+                <path d="M300.146226,0.5 L235.139937,70.5" id="Line-2-Copy-21"></path>
+                <path d="M99.0330189,0.5 L34.0267296,70.5" id="Line-2-Copy-3"></path>
+                <path d="M188.416667,0.5 L123.410377,70.5" id="Line-2-Copy-14"></path>
+                <path d="M266.627358,0.5 L201.621069,70.5" id="Line-2-Copy-22"></path>
+                <path d="M143.724843,0.5 L78.7185535,70.5" id="Line-2-Copy-7"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-15"></path>
+                <path d="M311.319182,0.5 L246.312893,70.5" id="Line-2-Copy-23"></path>
+                <path d="M322.492138,0.5 L257.485849,70.5" id="Line-2-Copy-24"></path>
+            </g>
+        </g>
+        <g id="Group-21-Copy-7" opacity="0.119419643" mask="url(#mask-2)" stroke="#FF5341" stroke-linecap="square">
+            <g transform="translate(1558.000000, -11.000000)">
+                <path d="M65.5141509,0.5 L0.507861635,70.5" id="Line-2"></path>
+                <path d="M154.897799,0.5 L89.8915094,70.5" id="Line-2-Copy-8"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-16"></path>
+                <path d="M110.205975,0.5 L45.1996855,70.5" id="Line-2-Copy-4"></path>
+                <path d="M199.589623,0.5 L134.583333,70.5" id="Line-2-Copy-9"></path>
+                <path d="M277.800314,0.5 L212.794025,70.5" id="Line-2-Copy-17"></path>
+                <path d="M76.6871069,0.5 L11.6808176,70.5" id="Line-2-Copy"></path>
+                <path d="M166.070755,0.5 L101.064465,70.5" id="Line-2-Copy-10"></path>
+                <path d="M244.281447,0.5 L179.275157,70.5" id="Line-2-Copy-18"></path>
+                <path d="M121.378931,0.5 L56.3726415,70.5" id="Line-2-Copy-5"></path>
+                <path d="M210.762579,0.5 L145.756289,70.5" id="Line-2-Copy-11"></path>
+                <path d="M288.97327,0.5 L223.966981,70.5" id="Line-2-Copy-19"></path>
+                <path d="M87.8600629,0.5 L22.8537736,70.5" id="Line-2-Copy-2"></path>
+                <path d="M177.243711,0.5 L112.237421,70.5" id="Line-2-Copy-12"></path>
+                <path d="M255.454403,0.5 L190.448113,70.5" id="Line-2-Copy-20"></path>
+                <path d="M132.551887,0.5 L67.5455975,70.5" id="Line-2-Copy-6"></path>
+                <path d="M221.935535,0.5 L156.929245,70.5" id="Line-2-Copy-13"></path>
+                <path d="M300.146226,0.5 L235.139937,70.5" id="Line-2-Copy-21"></path>
+                <path d="M99.0330189,0.5 L34.0267296,70.5" id="Line-2-Copy-3"></path>
+                <path d="M188.416667,0.5 L123.410377,70.5" id="Line-2-Copy-14"></path>
+                <path d="M266.627358,0.5 L201.621069,70.5" id="Line-2-Copy-22"></path>
+                <path d="M143.724843,0.5 L78.7185535,70.5" id="Line-2-Copy-7"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-15"></path>
+                <path d="M311.319182,0.5 L246.312893,70.5" id="Line-2-Copy-23"></path>
+                <path d="M322.492138,0.5 L257.485849,70.5" id="Line-2-Copy-24"></path>
+            </g>
+        </g>
+        <g id="Group-21-Copy" opacity="0.119419643" mask="url(#mask-2)" stroke="#FF5341" stroke-linecap="square">
+            <g transform="translate(-55.000000, -11.000000)">
+                <path d="M65.5141509,0.5 L0.507861635,70.5" id="Line-2"></path>
+                <path d="M154.897799,0.5 L89.8915094,70.5" id="Line-2-Copy-8"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-16"></path>
+                <path d="M110.205975,0.5 L45.1996855,70.5" id="Line-2-Copy-4"></path>
+                <path d="M199.589623,0.5 L134.583333,70.5" id="Line-2-Copy-9"></path>
+                <path d="M277.800314,0.5 L212.794025,70.5" id="Line-2-Copy-17"></path>
+                <path d="M76.6871069,0.5 L11.6808176,70.5" id="Line-2-Copy"></path>
+                <path d="M166.070755,0.5 L101.064465,70.5" id="Line-2-Copy-10"></path>
+                <path d="M244.281447,0.5 L179.275157,70.5" id="Line-2-Copy-18"></path>
+                <path d="M121.378931,0.5 L56.3726415,70.5" id="Line-2-Copy-5"></path>
+                <path d="M210.762579,0.5 L145.756289,70.5" id="Line-2-Copy-11"></path>
+                <path d="M288.97327,0.5 L223.966981,70.5" id="Line-2-Copy-19"></path>
+                <path d="M87.8600629,0.5 L22.8537736,70.5" id="Line-2-Copy-2"></path>
+                <path d="M177.243711,0.5 L112.237421,70.5" id="Line-2-Copy-12"></path>
+                <path d="M255.454403,0.5 L190.448113,70.5" id="Line-2-Copy-20"></path>
+                <path d="M132.551887,0.5 L67.5455975,70.5" id="Line-2-Copy-6"></path>
+                <path d="M221.935535,0.5 L156.929245,70.5" id="Line-2-Copy-13"></path>
+                <polyline id="Line-2-Copy-21" points="300.146226 0.5 235.139937 70.5 240.377108 105.516267"></polyline>
+                <path d="M99.0330189,0.5 L34.0267296,70.5" id="Line-2-Copy-3"></path>
+                <path d="M188.416667,0.5 L123.410377,70.5" id="Line-2-Copy-14"></path>
+                <path d="M266.627358,0.5 L201.621069,70.5" id="Line-2-Copy-22"></path>
+                <path d="M143.724843,0.5 L78.7185535,70.5" id="Line-2-Copy-7"></path>
+                <path d="M233.108491,0.5 L168.102201,70.5" id="Line-2-Copy-15"></path>
+                <path d="M311.319182,0.5 L246.312893,70.5" id="Line-2-Copy-23"></path>
+                <path d="M322.492138,0.5 L257.485849,70.5" id="Line-2-Copy-24"></path>
+            </g>
+        </g>
+    </g>
+</svg>

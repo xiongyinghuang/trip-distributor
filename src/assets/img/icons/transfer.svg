@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>最多显示</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="最多显示" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="最多显示4个" transform="translate(8.000000, 7.000000)" stroke="#7CAD4B">
+            <g id="Group-5" stroke-linecap="round">
+                <path d="M1.1425,12 L12.857,12 C13.4092847,12 13.857,11.5522847 13.857,11 L13.857,2.7145 C13.857,2.16221525 13.4092847,1.7145 12.857,1.7145 L1.1425,1.7145 C0.59021525,1.7145 0.1425,2.16221525 0.1425,2.7145 L0.1425,11 C0.1425,11.5522847 0.59021525,12 1.1425,12 Z" id="Stroke-1"></path>
+                <path d="M0,0 L14,0" id="Stroke-3"></path>
+                <polyline id="Stroke-4" points="2.42845 16 4.71445 12 9.28545 12 11.57145 16"></polyline>
+            </g>
+            <path d="M3.5,4.5 L3.5,9.5" id="Stroke-6"></path>
+            <path d="M7,5.5 L7,9.5" id="Stroke-7"></path>
+            <path d="M10.5,7 L10.5,9.5" id="Stroke-8"></path>
+        </g>
+    </g>
+</svg>

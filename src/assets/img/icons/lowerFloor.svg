@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>低楼层</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="低楼层" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9-Copy" transform="translate(5.000000, 6.000000)" stroke="#7CAD4B">
+            <path d="M19.5508527,7.7572099 L10.6709476,13.977691 C10.3342544,14.3349638 9.78804408,14.3349638 9.45135091,13.977691 L0.571876849,7.7572099 C0.234752572,7.39993708 0.234752572,6.82079831 0.571876849,6.46306803 L9.45135091,0.700042503 C9.78804408,0.342769687 10.3342544,0.342769687 10.6709476,0.700042503 L19.5508527,6.46306803 C19.8875459,6.82034085 19.8875459,7.39993708 19.5508527,7.7572099 Z" id="Stroke-3"></path>
+            <path d="M19.5508527,11.2752264 L17.3815313,12.7948938 L10.6709476,17.4957075 C10.3342544,17.8529803 9.78804408,17.8529803 9.45135091,17.4957075 L2.64247518,12.7258181 L0.571876849,11.2752264" id="Stroke-5"></path>
+            <g id="Group-28" transform="translate(10.000000, 7.000000) scale(1, -1) translate(-10.000000, -7.000000) translate(8.000000, 4.000000)" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M2.0613125,5.6175625 L2.0613125,0.8231875" id="Stroke-7"></path>
+                <path d="M0.7353125,2.13475 L2.0615625,0.822875" id="Stroke-1"></path>
+                <path d="M2.0613125,0.8229375 L3.3875625,2.1348125" id="Stroke-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>取消政策</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="取消政策" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-63" transform="translate(10.000000, 9.000000)"></g>
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <g id="Group-64" fill="#7CAD4B">
+                <g id="Group-27-Copy">
+                    <circle id="Oval-6" cx="17" cy="17" r="17"></circle>
+                </g>
+            </g>
+            <rect id="Rectangle-41" stroke="#FFFFFF" x="14.5" y="8.5" width="11" height="14" rx="1"></rect>
+            <path d="M12.8173828,14.0419922 L10.4083513,14.0419922 C10.1322089,14.0419922 9.9083513,14.2658498 9.9083513,14.5419922 L9.9083513,24.8694116 C9.9083513,25.145554 10.1322089,25.3694116 10.4083513,25.3694116 L19.2385022,25.3694116 C19.5146445,25.3694116 19.7385022,25.145554 19.7385022,24.8694116 L19.7385022,23.883575" id="Path-10" stroke="#FFFFFF"></path>
+            <g id="Group-65" transform="translate(17.000000, 13.000000)" stroke="#FFFFFF" stroke-linecap="round">
+                <path d="M0.6,0.6 L4.84264069,4.84264069" id="Line-4"></path>
+                <path d="M0.6,0.6 L4.84264069,4.84264069" id="Line-4" transform="translate(2.721320, 2.721320) scale(-1, 1) translate(-2.721320, -2.721320) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

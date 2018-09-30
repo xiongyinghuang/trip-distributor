@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>入住政策</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="入住政策" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-27" transform="translate(3.000000, 4.000000)">
+            <circle id="Oval-6" fill="#DDDDDD" cx="11.5" cy="11.5" r="11.5"></circle>
+            <g id="Group-62" transform="translate(6.000000, 6.000000)" stroke="#FFFFFF">
+                <path d="M10.3035714,9.38928571 L10.3035714,1.61071429 C10.3035714,1.10576823 9.89423177,0.696428571 9.38928571,0.696428571 L1.61071429,0.696428571 C1.10576823,0.696428571 0.696428571,1.10576823 0.696428571,1.61071429 L0.696428571,9.38928571 C0.696428571,9.89423177 1.10576823,10.3035714 1.61071429,10.3035714 L9.38928571,10.3035714 C9.89423177,10.3035714 10.3035714,9.89423177 10.3035714,9.38928571 Z" id="Rectangle-20"></path>
+                <path d="M5.00348075,5.47703857 L10.3224173,5.47703857" id="Path-3" stroke-linecap="round"></path>
+                <polyline id="Rectangle-22" stroke-linecap="round" stroke-linejoin="round" transform="translate(7.975000, 5.500000) rotate(-315.000000) translate(-7.975000, -5.500000) " points="6.20714286 3.73214286 9.74285714 3.73214286 9.74285714 7.26785714"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

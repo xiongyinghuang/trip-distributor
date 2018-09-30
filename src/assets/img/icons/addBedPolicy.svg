@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>儿童加床</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="儿童加床" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14" transform="translate(3.000000, 3.000000)">
+            <g id="Group-64-Copy" fill="#DDDDDD">
+                <g id="Group-27-Copy">
+                    <circle id="Oval-6" cx="12" cy="12" r="12"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(6.000000, 8.000000)">
+                <path d="M-6.8409091e-05,2.83507795 C1.97456,3.00781091 3.07834068,4.54530523 3.07834068,4.54530523 C3.22713045,0.938093864 -6.8409091e-05,2.83507795 -6.8409091e-05,2.83507795" id="Fill-1" fill="#FFFFFF"></path>
+                <path d="M0.341977045,4.54530523 L10.9453861,4.54530523" id="Stroke-3" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0.341977045,6.25563511 L10.9453861,6.25563511" id="Stroke-5" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M10.9453861,6.25563511 L10.9453861,7.88035102" id="Stroke-7" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M-6.8409091e-05,0.739981136 L-6.8409091e-05,7.88018" id="Stroke-9" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M6.78505307,1.6698317 C6.78505307,0.747677159 7.53276443,-3.42045454e-05 8.45491898,-3.42045454e-05 C9.37707352,-3.42045454e-05 10.1247849,0.747677159 10.1247849,1.6698317 C10.1247849,2.59198625 9.37707352,3.33969761 8.45491898,3.33969761 C7.53276443,3.33969761 6.78505307,2.59198625 6.78505307,1.6698317 Z" id="Stroke-11" stroke="#FFFFFF"></path>
+                <path d="M6.78505307,1.6698317 L10.1247849,1.6698317" id="Stroke-13" stroke="#FFFFFF"></path>
+                <path d="M8.45488477,3.3396292 L8.45488477,-0.000102613636" id="Stroke-15" stroke="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>客房</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="客房" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(7.000000, 7.000000)" stroke="#666666">
+            <polygon id="Path-3" stroke-linecap="round" stroke-linejoin="round" points="0.385546875 4.884375 8.35546875 0.138671875 15.7707031 4.884375 15.7707031 15.3267732 8.53247498 15.3267732 8.53247498 10.7465915 4.1183196 10.7465915 4.1183196 15.3283495 0.182744935 15.3283495"></polygon>
+            <path d="M12.1680664,9.31708984 L12.1680664,12.1309348" id="Path-4"></path>
+            <path d="M13.4547852,1.0796875 L13.4547852,3.30455725" id="Path-5"></path>
+        </g>
+    </g>
+</svg>

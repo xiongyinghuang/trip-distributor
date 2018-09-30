@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>城市</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="城市" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 3.000000)" stroke="#7CAD4B" stroke-width="2">
+            <path d="M23.7962769,19.5923077 C24.1867385,18.696 24.0002769,13.7141538 21.5504308,13.7141538 C19.3848923,13.7141538 18.9150462,18.696 19.3064308,19.5923077" id="Stroke-1"></path>
+            <path d="M21.5508,18.6124615 L21.5508,22.8983077" id="Stroke-3"></path>
+            <polygon id="Stroke-5" points="2.44984615 23.0206154 10.2858462 23.0206154 10.2858462 6.36738462 2.44984615 6.36738462"></polygon>
+            <path d="M7.34676923,5.87778462 L7.34676923,0.000553846153 C7.34676923,0.000553846153 16.1630769,3.91809231 16.1630769,9.79624615 L16.1630769,22.5310154" id="Stroke-7"></path>
+            <path d="M2.4492,9.79633846 L6.36766154,9.79633846" id="Stroke-8"></path>
+            <path d="M2.4492,12.7350462 L6.36766154,12.7350462" id="Stroke-9"></path>
+            <path d="M2.4492,15.6737538 L6.36766154,15.6737538" id="Stroke-10"></path>
+            <path d="M0,23.0204308 L23.5107692,23.0204308" id="Stroke-11"></path>
+        </g>
+    </g>
+</svg>

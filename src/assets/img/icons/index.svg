@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>定位</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-26.7578125%" y1="64.8729091%" x2="100%" y2="38.5640112%" id="linearGradient-1">
+            <stop stop-color="#7FD8F7" offset="0%"></stop>
+            <stop stop-color="#0F5CD0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="79.5857988%" x2="100%" y2="20.4142012%" id="linearGradient-2">
+            <stop stop-color="#43DDFE" offset="0%"></stop>
+            <stop stop-color="#0F5CD0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.66766306%" x2="50%" y2="98.2907334%" id="linearGradient-3">
+            <stop stop-color="#3F7DFB" stop-opacity="0.430197011" offset="0%"></stop>
+            <stop stop-color="#18EDFD" stop-opacity="0.430197011" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="定位" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 0.000000)" fill-rule="nonzero" id="Stroke-1">
+            <path d="M12,4 C6.4765268,4 2,8.82026316 2,14.7674211 C2,17.4064211 2.91954023,19.7922632 4.34801274,21.6964211 C6.61501177,24.7185789 9.61667359,28.1738421 11.2798781,29.6592632 C11.5616951,29.9110526 11.7978119,30 12,30 C12.2132669,30 12.4376125,29.9110526 12.7201219,29.6585789 C14.382634,28.1731579 17.3849882,24.7185789 19.6512948,21.6964211 C21.0804598,19.7922632 22,17.4064211 22,14.7674211 C22,8.82026316 17.5227808,4 12,4 Z" fill="url(#linearGradient-1)" opacity="0.389285714"></path>
+            <path d="M10,0 C4.4765268,0 0,4.82026316 0,10.7674211 C0,13.4064211 0.91954023,15.7922632 2.34801274,17.6964211 C4.61501177,20.7185789 7.61667359,24.1738421 9.27987813,25.6592632 C9.56169506,25.9110526 9.79781194,26 10,26 C10.2132669,26 10.4376125,25.9110526 10.7201219,25.6585789 C12.382634,24.1731579 15.3849882,20.7185789 17.6512948,17.6964211 C19.0804598,15.7922632 20,13.4064211 20,10.7674211 C20,4.82026316 15.5227808,0 10,0 Z" stroke="url(#linearGradient-3)" fill="url(#linearGradient-2)" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>当地景观</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="19.3876405 21.5084478 6.95511808 9.87859198 0.473439751 15.5460518 0.473439751 21.5084478"></polygon>
+    </defs>
+    <g id="当地景观" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-75" transform="translate(0.000000, 7.000000)">
+            <g id="Group-73">
+                <g id="Group-72" transform="translate(18.269231, 0.972973)">
+                    <g id="Group-16" transform="translate(0.000000, 12.648649)">
+                        <polygon id="Path-19" stroke="#666666" stroke-width="2" stroke-linejoin="round" points="23.5828339 0.505470453 31.5940798 0.505470453 22.940551 9.71565882 19.8687967 4.95992588"></polygon>
+                        <polygon id="Path-11" stroke="#666666" stroke-width="2" stroke-linejoin="round" points="31.4554673 0.615990642 15.4131032 17.8812114 19.4562112 21.63178 31.4554673 21.63178"></polygon>
+                        <polygon id="Path-8" stroke="#666666" stroke-width="2" stroke-linejoin="round" points="8.76863437 0.500293863 0.515037102 0.500293863 0.490481484 15.6019353 12.0693186 5.28087444"></polygon>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" stroke="#666666" stroke-width="2" fill-opacity="0.3" fill="#266FE2" stroke-linejoin="round" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Group-48-Copy-4" transform="translate(11.538462, 0.000000)" stroke="#666666" stroke-width="2">
+                        <g id="Group-56">
+                            <path d="M4.70683163,0 C2.10702579,0 0,2.30311801 0,5.14466546 C0,6.40557763 0.432812104,7.54553114 1.10517006,8.45533631 C2.17220834,9.89932102 3.58504002,11.5502431 4.36788239,12.2599761 C4.50052887,12.3802809 4.61166511,12.4227799 4.70683163,12.4227799 C4.80721275,12.4227799 4.91280847,12.3802809 5.04578087,12.2596492 C5.82829733,11.5499162 7.24145492,9.89932102 8.30816728,8.45533631 C8.98085116,7.54553114 9.41366326,6.40557763 9.41366326,5.14466546 C9.41366326,2.30311801 7.30631156,0 4.70683163,0 Z" id="Stroke-1" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <ellipse id="Oval-5" cx="4.70683163" cy="4.09542195" rx="1.41204949" ry="1.43339768"></ellipse>
+                        </g>
+                    </g>
+                </g>
+                <path d="M22.6246802,3.63028737 C10.5658532,3.97524113 4.97513651,8.16047599 5.85253029,16.185992 C7.16862094,28.2242659 9.28118704,21.1559365 6.15065219,27.6373377" id="Path-15" stroke="#666666" stroke-width="2" stroke-linecap="round" stroke-dasharray="2,4" transform="translate(14.193974, 15.633813) rotate(40.000000) translate(-14.193974, -15.633813) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

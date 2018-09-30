@@ -1,0 +1,425 @@
+
+//path:component/paging.vue
+.paging{
+    position:absolute;
+    left:50%;
+    transform: translateX(-50%);
+    .el-pagination .btn-next, .el-pagination .btn-prev, .el-pagination .el-pager li{
+        padding: 0 5px;
+    }
+}
+
+//path:view/detail/component/roomtypeInfo.vue
+.superValueRoom{
+    .el-button{
+        border: none;
+        padding: 0;
+        &:hover{
+            background-color: #fff;
+        }
+    }
+}
+
+//path:views/homePage/components/search.vue
+
+.search{
+    .el-form{
+        position: absolute;
+        right:80px;
+        top:35px;
+        width: 430px;
+    }
+    .el-input__inner,.el-input__icon{
+        line-height: inherit;
+    }
+
+    //.destinationIpt
+    .destinationIpt{
+        .el-input{
+            display: block;
+            height: 100%;
+        }
+        .el-input__inner{
+            padding-left: 60px;
+            height: 100%;
+        }
+    }
+
+    //.el-date-editor--daterange
+    .el-date-editor--daterange{
+        padding-left: 60px;
+        width: 100%;
+        height: 100%;
+        .el-range__icon{
+            display: none;
+        }
+        .el-range-input{
+            margin-top: -15px;
+            width: 30%;
+            height: auto;
+            font-size: 16px;
+            color: #333;
+            text-align: left;
+        }
+        .el-range-separator{
+            margin-top: -15px;
+            margin-right: 20px;
+            height: auto;
+            color: #ccc;
+            text-align: center;
+        }
+    }
+
+    //.roomSel
+    .roomSel{
+        .el-select{
+            height: 100%;
+            .el-input,.el-input__inner{
+                height: 100%;
+            }
+            .el-input__inner{
+                padding-left: 60px;
+            }           
+        }
+    }
+
+    .adult{
+        .el-select,.el-input,.el-input__inner{
+            width: 100%;
+            height: 100%;
+        }
+        .el-input__inner{
+            padding-left: 60px;
+            border-right: none;
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+            &:focus{
+                border-color:#fff;
+            }
+        }
+        .el-input.is-focus .el-input__inner{
+            border-color:#fff;
+        } 
+    }
+
+    .child{
+        .el-select,.el-input,.el-input__inner{
+            width: 100%;
+            height: 100%;
+            cursor: pointer;
+        }
+        .el-input__inner{
+            border-left: none;
+            border-top-left-radius: 0;
+            border-bottom-left-radius: 0;
+            &:focus{
+                border-color:#fff;
+            }
+        } 
+        .el-input.is-focus .el-input__inner{
+            border-color:#fff;
+        }   
+    }
+}
+
+//path:components/search.vue
+.comSearch{
+
+    .el-input__inner,.el-input__icon{
+        line-height: inherit;
+    } 
+
+    .destinationIpt{
+        .el-input{
+            height: 100%;
+        }
+        .el-input__inner{
+            padding-left: 40px;
+            height: 100%;
+        }
+    }
+
+    .el-date-editor--daterange{
+        padding-left: 40px;
+        width: 100%;
+        height: 100%;
+        .el-range__icon{
+            display: none;
+        }
+        .el-range-input{
+            width: 45%;
+            font-size: 16px;
+            color: #333;
+            text-align: left;
+            &:nth-last-of-type(1){
+                text-align: right;
+            }
+        }
+        .el-range-separator{
+        display: none;
+        }
+    }
+
+    .roomSel{
+        .el-select{
+            height: 100%;
+            .el-input,.el-input__inner{
+                height: 100%;
+            }
+            .el-input__inner{
+                padding-left: 40px;
+                color: #333;
+            }           
+        }
+    }
+
+    .adult{
+        display: inline-block;
+        vertical-align: top;
+        width: 130px;
+        height: 100%;
+        .el-select,.el-input,.el-input__inner{
+            width: 100%;
+            height: 100%;
+        }
+        .el-input__inner{
+            padding-left: 40px;
+            color: #333;
+            border: none;
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+            &:hover{
+                border: none;
+            }
+            &:focus{
+                border: none;
+            }
+        }
+        .el-input.is-focus .el-input__inner{
+            border-color:#fff;
+        } 
+
+    }
+
+    .child{
+        display: inline-block;
+        vertical-align: top;
+        margin-left: -4px;
+        width: 94px;
+        height: 100%;
+        .el-select,.el-input,.el-input__inner{
+            width: 100%;
+            height: 100%;
+        }
+        .el-input__inner{
+            color: #333;
+            border: none;
+            border-top-left-radius: 0;
+            border-bottom-left-radius: 0;
+            &:hover{
+                border: none;
+            }
+            &:focus{
+                border: none;
+            }
+        } 
+        .el-input.is-focus .el-input__inner{
+            border-color:#fff;
+        }   
+    }
+
+}
+
+
+
+.el-popover{
+    padding: 0;
+}
+
+.items{
+    display: flex;
+    align-items:center;
+    border-bottom: 1px solid #ddd;
+    &:nth-last-of-type(1){
+        border-bottom: none;
+    }
+}
+
+.selPeople,.selAge{
+    margin: 10px 0;
+    text-align: center;
+    &__title{
+        font-size: 12px;
+        color: #666;
+        text-align: initial;
+    }
+    .el-input-number{
+        width: 160px;
+    }
+}
+
+
+
+//path:view/fillInOrder/components/info.vue
+.checkInInfo{
+    .el-button{
+        border: none;
+        padding: 0;
+        background-color: transparent;
+        .svg-icon{
+            margin: -4px 0 0 -8px;
+        }
+    }
+}
+.orderNum{
+    .el-button{
+        border: none;
+        padding: 0;
+        background-color: transparent;
+        .svg-icon{
+            margin: -4px 0 0 0;
+        }
+    }  
+}
+
+.need{
+    .needItem{
+        position: relative;
+        width: 250px;
+    }
+    .el-checkbox-group{
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .el-checkbox__label{
+        padding-left: 40px;
+        font-size: 14px;
+        color: #7CAD4B;
+    }
+}
+
+
+//path:view/fillInOrder/components/hotelInfos.vue
+.hotelInfo{
+    .el-rate{
+        padding: 0 20px;
+    }
+}
+
+.reservationInfo{
+    .el-button{
+        border: none;
+        padding: 0;
+        background-color: transparent;
+        .svg-icon{
+            margin: -4px 0 0 -12px;
+        }
+    }
+}
+
+
+
+//path:view/personal/components/account.vue
+.account{
+    .el-tabs--border-card{
+        box-shadow: none;
+        border: none;
+    }
+    .el-tabs__header{
+        background-color: transparent;
+        border: none;
+    }
+    .el-tabs--border-card>.el-tabs__header .el-tabs__item{
+        width: 130px;
+        height: 36px;
+        margin: 0;
+        border-left:none;
+        border-right:none;
+        border-radius: 4px;
+        text-align: center;
+        line-height: 36px;
+        transition: none;
+    }
+    .el-tabs__nav{
+        border: 1px solid #CCC;
+        border-radius: 4px;
+    }
+    .el-tabs--border-card>.el-tabs__header .el-tabs__item.is-active{
+        background: #266FE2;
+        color: #fff;
+        :hover{
+            color: #fff;
+        }
+    }
+    .el-tabs--border-card>.el-tabs__content{
+        padding: 0;
+    }
+}
+
+//path:view/personal/components/order.vue
+.queryPanel{
+    .el-select{
+        width: 60%;
+    }
+    .el-input__inner{
+        padding: 0 10px;
+        height: 35px;
+        line-height: 35px;
+    }
+    .el-checkbox-group{
+        display: inline-block;
+        vertical-align: middle;
+    }
+}
+
+
+//path:view/list/components/optionPanel.vue
+.optionPanel{
+    .place,.starLevel,.brand,.price{
+        .el-checkbox{
+            width: 110px;
+        }
+    }
+    .custom{
+        .el-input{
+            display: inline-block;
+            vertical-align: middle;
+            width: 60px;
+            height: 36px;
+            line-height: 36px;
+        }
+        .el-input__inner{
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            text-align: center;
+        }
+    }
+    .tag{
+        display: inline-block;
+        vertical-align: top;
+        position: relative;
+        .el-tag{
+            position: relative;
+            margin: 0 20px 0 10px;
+            height: 40px;
+            background-color: transparent;
+            border: 1px solid #266FE2;
+            border-radius: 2px;
+            line-height: 40px;
+            font-size: 14px;
+            color: #266FE2;
+            text-align: center;
+        }
+        .el-icon-close{
+            position: absolute;
+            top:0;
+            right:0;
+            transform: translate(50%,-50%);
+            background: #fff;
+            border: 1px solid #266FE2;
+            color: #266FE2;
+        }
+    }
+}
+

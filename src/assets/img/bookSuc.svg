@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>支付成功</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#4BE2B9" offset="0%"></stop>
+            <stop stop-color="#0BB98B" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-20.1%" y="-20.1%" width="140.2%" height="140.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="5.02232143" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="支付成功" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(3.000000, 3.000000)">
+            <g id="Group">
+                <circle id="Oval" fill="url(#linearGradient-1)" opacity="0.689676339" filter="url(#filter-2)" cx="42.5316456" cy="42.5316456" r="37.4683544"></circle>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="39.4936709" cy="39.4936709" r="39.4936709"></circle>
+                <path d="M19.4428788,39.0648034 L33.0009259,52.2926177" id="Stroke-1" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M56.8342857,25.5191426 L33.518264,52.2930835" id="Stroke-3" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

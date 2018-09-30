@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>停车</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="停车" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="免费停车" transform="translate(8.000000, 7.000000)">
+            <path d="M8.91851852,7.31851852 L6.84444444,7.31851852 L6.84444444,4.35555556 L8.91851852,4.35555556 C9.73511111,4.35555556 10.4,5.02044444 10.4,5.83703704 C10.4,6.65362963 9.73511111,7.31851852 8.91851852,7.31851852 M8.91851852,3.17037037 L6.84444444,3.17037037 L6.52977778,3.17037037 L5.65925926,3.17037037 L5.65925926,4.04088889 L5.65925926,7.62251852 L5.65925926,12.6518519 L6.84444444,12.6518519 L6.84444444,8.5037037 L8.91851852,8.5037037 C10.3911111,8.5037037 11.5851852,7.30962963 11.5851852,5.83703704 C11.5851852,4.36444444 10.3911111,3.17037037 8.91851852,3.17037037" id="Fill-1" fill="#7CAD4B" fill-rule="nonzero"></path>
+            <circle id="Oval" stroke="#7CAD4B" cx="8" cy="8" r="7.5"></circle>
+        </g>
+    </g>
+</svg>

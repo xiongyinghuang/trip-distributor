@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>分享</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="分享" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(2.000000, 2.000000)" stroke="#266FE2">
+            <polyline id="Stroke-11" points="10.4700606 0.4848 15.742303 0.4848 15.742303 5.75704242"></polyline>
+            <path d="M15.742303,12.4076121 L15.742303,13.4141576 C15.742303,14.8420364 14.5844848,15.9998545 13.1566061,15.9998545 L2.81284848,15.9998545 C1.3849697,15.9998545 0.227151515,14.8420364 0.227151515,13.4141576 L0.227151515,3.07088485 C0.227151515,1.64252121 1.3849697,0.48470303 2.81284848,0.48470303 L3.96484848,0.48470303" id="Stroke-13"></path>
+            <path d="M3.96509091,12.0404364 L15.7425455,0.484557576" id="Stroke-15"></path>
+        </g>
+    </g>
+</svg>
